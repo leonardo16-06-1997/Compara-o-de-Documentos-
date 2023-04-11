@@ -1,4 +1,6 @@
 import tkinter as tk
+import PyPDF2
+import docx
 from tkinter import filedialog
 from PIL import Image, ImageTk
 from difflib import SequenceMatcher
